@@ -1,0 +1,16 @@
+current directory: /home/happiness/moringa/phase-4/dvd-shop/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
+/home/happiness/.rbenv/versions/2.7.6/bin/ruby -I /home/happiness/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230323-131529-62rbpj.rb extconf.rb
+creating Makefile
+
+current directory: /home/happiness/moringa/phase-4/dvd-shop/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/happiness/moringa/phase-4/dvd-shop/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/happiness/moringa/phase-4/dvd-shop/vendor/bundle/ruby/2.7.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230323-131529-1usig8r/debug
